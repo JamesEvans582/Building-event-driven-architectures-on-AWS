@@ -22,10 +22,10 @@ Congrats, you should creat a bus, like underneath.
 Set up Amazon CloudWatch target (for development work)
 Cloudwatch is great for monitoring, so when we set this as a target we can have rapid response for events. 
 
-1)From the left-hand menu, select Rules.
-2)From the Event bus dropdown, select the Orders event bus
-3)Click Create rule 
-4)Define rule detail:
+1) From the left-hand menu, select Rules.
+2) From the Event bus dropdown, select the Orders event bus
+3) Click Create rule 
+4) Define rule detail:
 
 Add OrdersDevRule as the Name of the rule
 Add Catchall rule for development purposes for Description
