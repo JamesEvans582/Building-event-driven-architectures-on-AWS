@@ -1,5 +1,18 @@
 # Building-event-driven-architectures-on-AWS
 
+THANKS FOR JOINING ME - TODAY I'LL GOING THROUGH - Building-event-driven-architectures-on-AWS
+This has been an amazing tutorial to learn from, covering so much topics. Link underneathfor it. 
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/63320e83-6abc-493d-83d8-f822584fb3cb/en-US/getting-started
+
+Previously working for a streaming company I know this is the way forward. 
+Using a Eventbridge connecting to an end point of an API to then having step functions to action certain events, whilst using SNS to notify.
+And finally monitoring it action through cloudwatch. In the tutorial AWS themselves give a cloudformation, which you can use, this will help connect
+to the API and Event Generator.
+
+
+
+
 <img width="1792" alt="Screenshot 2023-02-08 at 08 03 15" src="https://user-images.githubusercontent.com/71371405/217471120-307547fd-3916-40a6-8036-63efee4ecd30.png">
 
 - - Step 1 - - : 
