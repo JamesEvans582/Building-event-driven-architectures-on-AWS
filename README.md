@@ -2,7 +2,8 @@
 
 <img width="1792" alt="Screenshot 2023-02-08 at 08 03 15" src="https://user-images.githubusercontent.com/71371405/217471120-307547fd-3916-40a6-8036-63efee4ecd30.png">
 
-- - Step 1 - -: Create a custom event bus
+- - Step 1 - - : 
+- Create a custom event bus
 Open the AWS Management Console for EventBridge  in a new tab or window, so you can keep this step-by-step guide open.
 
 2) On the EventBridge homepage, under Events, select Event buses from the left navigation.
@@ -17,7 +18,8 @@ Congrats, you should creat a bus, like underneath.
 
 <img width="1792" alt="Screenshot 2023-02-08 at 08 03 15" src="https://user-images.githubusercontent.com/71371405/217474662-afd1d5d9-fe17-4231-ab40-1a40eb6d66e6.png">
 
-- - Step 2 - -: Set up Amazon CloudWatch target (for development work)
+- - Step 2 - - : 
+Set up Amazon CloudWatch target (for development work)
 Cloudwatch is great for monitoring, so when we set this as a target we can have rapid response for events. 
 
 1)From the left-hand menu, select Rules.
