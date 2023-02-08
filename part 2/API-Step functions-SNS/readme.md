@@ -132,7 +132,7 @@ Select Poll for Messages and verify the first message was delivered and the seco
 
 To clean up, select the event, select the Delete button, and select the Delete button again on the Delete Messages confirmation dialog.
 
-CONGRATULATION YOU MADE IT.  
+CONGRATULATION YOU MADE IT.   
 
 
 
